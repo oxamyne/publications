@@ -14,9 +14,9 @@ Il est par ailleurs le résultat de la coopération de plusieurs membres de la c
 
 ## Avant tout : Oxamyne, c’est quoi ? <a id="avant-tout-oxamyne-cest-quoi"></a>
 
-[OxaMYNE](https://pad.lamyne.org/GYZgJgbA7ALAhiAtAVgEwA5WPsij1xgCciwAxmOmQEZECM9wMQA=#) est une expérimentation menée entre la [MYNE](http://lamyne.org) et [Oxalis](http://www.oxalis-scop.fr/) sur la structuration d’une entité commune permettant le portage des activités économiques et entrepreneuriales des personnes ou projets de ces deux communautés dans une perspective de participation active aux communs.
+[Oxamyne](http://oxamyne.fr) est une expérimentation menée entre la [MYNE](http://lamyne.org) et [Oxalis](http://www.oxalis-scop.fr/) sur la structuration d’une entité commune permettant le portage des activités économiques et entrepreneuriales des personnes ou projets de ces deux communautés dans une perspective de participation active aux communs.
 
-La réflexion autour du développement d’une organisation commune entre Oxalis et la MYNE a émergé au cours de l’année 2016 et s’est formalisée lors des travaux et rencontres réalisées en fin d’année \(voir notamment le compte-rendu [AG 2016 de La MYNE](https://hackpad.com/wdBGfQfAsb5)\). Cette réflexion a donné lieu à une “[_**Note de préfiguration OxaMYNE**_](https://docs.google.com/document/d/1xbuQVtPSa_diMZ3vR9u3vHLDavcx4yVTLqHThhjuJ-Y/edit?usp=sharing)_**”**_ présentant plus en détail les tenants et aboutissants de l’expérimentation OxaMYNE.
+La réflexion autour du développement d’une organisation commune entre Oxalis et la MYNE a émergé au cours de l’année 2016 et s’est formalisée lors des travaux et rencontres réalisées en fin d’année (voir notamment le compte-rendu [AG 2016 de La MYNE](https://pad.lamyne.org/s/ByBGQpmHW)). Cette réflexion a donné lieu à une “[_**Note de préfiguration OxaMYNE**_](https://docs.google.com/document/d/1xbuQVtPSa_diMZ3vR9u3vHLDavcx4yVTLqHThhjuJ-Y/edit)_**”**_ présentant plus en détail les tenants et aboutissants de l’expérimentation OxaMYNE.
 
 Ci-après, vous trouverez quelques éléments succints sur le fonctionnement prévisionnel et en cours de construction de OxaMYNE.
 
