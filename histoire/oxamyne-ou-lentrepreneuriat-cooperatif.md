@@ -2,7 +2,7 @@
 description: 'Publié le 02/06/2017, sous licence Creative Commons BY-SA (International 4.0)'
 ---
 
-# OxaMYNE ou “l’entrepreneuriat coopératif”
+# Oxamyne ou “l’entrepreneuriat coopératif”
 
 En réponse et clarification à la publication de l’article paru dans Makery “[_A Lyon, la Myne expérimente l’entrepreneuriat coopératif_](http://www.makery.info/2017/05/30/a-lyon-la-myne-experimente-lentrepreneuriat-cooperatif/)”.
 
@@ -12,7 +12,7 @@ Afin d’éviter toute confusion, incompréhension et tout raccourci sur les act
 
 Il est par ailleurs le résultat de la coopération de plusieurs membres de la communauté de la MYNE qui ont souhaité participer à apporter des précisions et un point de vu plus large que celui pris par l’article.
 
-## Avant tout : OxaMYNE, c’est quoi ? <a id="avant-tout-oxamyne-cest-quoi"></a>
+## Avant tout : Oxamyne, c’est quoi ? <a id="avant-tout-oxamyne-cest-quoi"></a>
 
 [OxaMYNE](https://pad.lamyne.org/GYZgJgbA7ALAhiAtAVgEwA5WPsij1xgCciwAxmOmQEZECM9wMQA=#) est une expérimentation menée entre la [MYNE](http://lamyne.org) et [Oxalis](http://www.oxalis-scop.fr/) sur la structuration d’une entité commune permettant le portage des activités économiques et entrepreneuriales des personnes ou projets de ces deux communautés dans une perspective de participation active aux communs.
 
@@ -22,17 +22,17 @@ Ci-après, vous trouverez quelques éléments succints sur le fonctionnement pr�
 
 ### **Le fonctionnement vu par la MYNE** <a id="le-fonctionnement-vu-par-la-myne"></a>
 
-![Organisation de OxaMYNE vue par la MYNE&#x200A;&#x2014;&#x200A;CC-BY-SA](../.gitbook/assets/image%20%281%29.png)
+![Organisation de Oxamyne vue par la MYNE&#x200A;&#x2014;&#x200A;CC-BY-SA](../.gitbook/assets/image%20%281%29.png)
 
 ### **Fonctionnement vu par Oxalis** <a id="fonctionnement-vu-par-oxalis"></a>
 
-![Organisation de OxaMYNE vue par Oxalis&#x200A;&#x2014;&#x200A;CC-BY-SA](../.gitbook/assets/image%20%282%29.png)
+![Organisation de Oxamyne vue par Oxalis&#x200A;&#x2014;&#x200A;CC-BY-SA](../.gitbook/assets/image%20%282%29.png)
 
 _**Cette brève description n’a pas pour vocation d’être exhaustive, mais de donner quelques clefs de compréhension nécessaires à la déconstruction de l’article paru dans Makery “**_[_**A Lyon, la Myne expérimente l’entrepreneuriat coopératif**_](http://www.makery.info/2017/05/30/a-lyon-la-myne-experimente-lentrepreneuriat-cooperatif/)_**” sur les points qui sont abordés dans les sections suivantes.**_
 
-## OxaMYNE : “une entité interne” <a id="oxamyne-une-entite-interne"></a>
+## Oxamyne : “une entité interne” <a id="oxamyne-une-entite-interne"></a>
 
-OxaMYNE n’est pas _“une entité interne au hackerspace \[ndlr. La MYNE\]”_. C’est une entité qui aujourd’hui, dans sa préfiguration, pourra être un établissement secondaire de Oxalis et sera co-porté par la MYNE et Oxalis. La gouvernance a pour vocation d’être partagée et ouverte, pilotée par les porteurs de projets entrepreneuriaux.
+Oxamyne n’est pas _“une entité interne au hackerspace \[ndlr. La MYNE\]”_. C’est une entité qui aujourd’hui, dans sa préfiguration, pourra être un établissement secondaire de Oxalis et sera co-porté par la MYNE et Oxalis. La gouvernance a pour vocation d’être partagée et ouverte, pilotée par les porteurs de projets entrepreneuriaux.
 
 Par ailleurs, _“le hackerspace” ne “compte” pas “se doter d’une entité inspirée de la coopérative Oxalis”_; nous n’en n’avons pas l’ambition, car ni le temps ni les compétences, et préférons expérimenter en coopération avec Oxalis plutôt que de se doter d’une structure propre. OxaMYNE n’est en aucun cas la propriété de la MYNE. De plus, s’il est vrai que “_les règles doivent être adaptées au fonctionnement particulier du lieu”,_ le fonctionnement du lieu n’a que peu d’impact, par contre les pratiques au sein de communautés ouvertes nécessitent effectivement de se mettre d’accord de manière collégiale sur des règles communes. Il reste clef de distinguer soigneusement, sous le terme “La MYNE”, les notions de lieu \(espace physique\), des pratiques mises en place, des projets supportés par la MYNE et de la \(les\) communauté\(s\) de personnes.
 
@@ -52,7 +52,7 @@ ils sont hors du jeu direct et n’ont, à priori, aucun lien direct avec OxaMYN
 
 Concrétement, l’accord “créé avec le cabinet d’études et de conseils [Nova7](http://www.nova7.fr/)” est un cadre dit “de réciprocité”, d’ordre moral et non contraignant juridiquement, régissant notamment certaines résidences au sein de Nova7. Nous travaillons avec eux sur des thématiques croisées en lien avec les tiers-lieux notamment. De même, concernant la coopérative [Coexiscience](http://coexiscience.fr/), Benjamin mentionne des différences de langages, entre le monde de la start-up et du numérique, et celui des chartes académiques . C’est la confrontation de ces différences qui a mené à un travail de construction d’un cadre de réciprocité, afin de prévenir toute incompréhension. Il ne s’agissait pas d’une opposition aussi marquée que l’extrait de l’article le laisse entendre.
 
-## L’entrepreneuriat coopératif, OxaMYNE et la MYNE <a id="lentrepreneuriat-cooperatif-oxamyne-et-la-myne"></a>
+## L’entrepreneuriat coopératif, Oxamyne et la MYNE <a id="lentrepreneuriat-cooperatif-oxamyne-et-la-myne"></a>
 
 > “Côté entreprises aussi, la Myne attire : Veolia, Bouygues ou Nexity se sont montrés intéressés, ainsi que des PME de l’économie numérique. Bref, « le carnet de commandes est plein », fait savoir Benjamin Chow-Petit, membre actif, qui annonce 150000€ d’activités pour l’année à venir, et ce, « avant même d’avoir fait de la prospection commerciale »”.
 
@@ -70,7 +70,7 @@ Enfin, nous ne faisons pas de “_prospection commerciale_”. Le point soulign�
 
 > _“Une fois la partie administrative passée, qui devrait durer environ un mois selon Benjamin Chow-Petit”_
 
-Il n’y a à ce jour que peu de visibilité sur l’existence juridique et le fonctionnement de OxaMYNE: nous apprenons en marchant et en expérimentant. En effet, le co-construction de cet outil nécessite un travail de fond de médiation et d’appropriation, ainsi que sur la gouvernance ouverte et partagée que nous souhaitons mettre en place. Le timing annoncé ne concerne donc que la partie administrative propre, suivie d’expérimentations multiples et donc sans dates annoncées.
+Il n’y a à ce jour que peu de visibilité sur l’existence juridique et le fonctionnement de Oxamyne: nous apprenons en marchant et en expérimentant. En effet, le co-construction de cet outil nécessite un travail de fond de médiation et d’appropriation, ainsi que sur la gouvernance ouverte et partagée que nous souhaitons mettre en place. Le timing annoncé ne concerne donc que la partie administrative propre, suivie d’expérimentations multiples et donc sans dates annoncées.
 
 > _“Le modèle, qui sera, comme les autres projets de la Myne, documenté, pourra-t-il ensuite servir à d’autres tiers-lieux ? « On a d’abord besoin d’explorer et de l’essayer avant de dire qu’on peut reproduire et essaimer », tempère-t-il”_
 
