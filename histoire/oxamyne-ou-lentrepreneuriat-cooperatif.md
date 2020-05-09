@@ -4,7 +4,7 @@ description: 'Publié le 02/06/2017, sous licence Creative Commons BY-SA (Intern
 
 # Oxamyne ou “l’entrepreneuriat coopératif”
 
-En réponse et clarification à la publication de l’article paru dans Makery “[_A Lyon, la Myne expérimente l’entrepreneuriat coopératif_](http://www.makery.info/2017/05/30/a-lyon-la-myne-experimente-lentrepreneuriat-cooperatif/)”.
+En réponse à la publication de l’article “[_A Lyon, la Myne expérimente l’entrepreneuriat coopératif_](http://www.makery.info/2017/05/30/a-lyon-la-myne-experimente-lentrepreneuriat-cooperatif/)”.
 
 ![Rencontre entre Oxalis et la MYNE \(Photo Rieul Techer, Licence CC-BY-NC-SA\)](../.gitbook/assets/image.png)
 
