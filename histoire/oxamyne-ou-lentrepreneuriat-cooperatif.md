@@ -4,7 +4,7 @@ description: 'Publié le 02/06/2017, sous licence Creative Commons BY-SA (Intern
 
 # Oxamyne ou “l’entrepreneuriat coopératif”
 
-En réponse à la publication de l’article “[_A Lyon, la Myne expérimente l’entrepreneuriat coopératif_](http://www.makery.info/2017/05/30/a-lyon-la-myne-experimente-lentrepreneuriat-cooperatif/)”.
+En réponse à la publication de l’article “[_A Lyon, la MYNE expérimente l’entrepreneuriat coopératif_](http://www.makery.info/2017/05/30/a-lyon-la-myne-experimente-lentrepreneuriat-cooperatif/)” sur Makery.
 
 ![Rencontre entre Oxalis et la MYNE \(Photo Rieul Techer, Licence CC-BY-NC-SA\)](../.gitbook/assets/image.png)
 
@@ -28,7 +28,7 @@ Ci-après, vous trouverez quelques éléments succints sur le fonctionnement pr�
 
 ![Organisation de Oxamyne vue par Oxalis&#x200A;&#x2014;&#x200A;CC-BY-SA](../.gitbook/assets/image%20%282%29.png)
 
-_**Cette brève description n’a pas pour vocation d’être exhaustive, mais de donner quelques clefs de compréhension nécessaires à la déconstruction de l’article paru dans Makery “**_[_**A Lyon, la Myne expérimente l’entrepreneuriat coopératif**_](http://www.makery.info/2017/05/30/a-lyon-la-myne-experimente-lentrepreneuriat-cooperatif/)_**” sur les points qui sont abordés dans les sections suivantes.**_
+_**Cette brève description n’a pas pour vocation d’être exhaustive, mais de donner quelques clefs de compréhension nécessaires à la déconstruction de l’article paru dans Makery “**_[_**A Lyon, la MYNE expérimente l’entrepreneuriat coopératif**_](http://www.makery.info/2017/05/30/a-lyon-la-myne-experimente-lentrepreneuriat-cooperatif/)_**” sur les points qui sont abordés dans les sections suivantes.**_
 
 ## Oxamyne : “une entité interne” <a id="oxamyne-une-entite-interne"></a>
 
