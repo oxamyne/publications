@@ -60,7 +60,7 @@ Nous sommes encore un élément de curiosité dans l’écosystème lyonnais aut
 
 Le terme de “_carnet de commandes_” est abusif et ne reflète pas la réalité des relations et surtout des modalités de collaborations que nous essayons de nouer avec des acteurs \(qu’ils soient économiques ou non\). Nous ne répondons pas à des commandes, nous co-construisons les “cahiers des charges”, en fonction des “besoins” et, de préférence, sur des bases de “réciprocité” pour que cela profite à la production et la contribution au commun.
 
-L’annonce de “_150000€ d’activité_” ne peut donc avoir à ce stade de réalité que prévisionnelle, et ne concerne pas la MYNE en tant que telle mais bien la structure OxaMYNE co-portée par la MYNE et Oxalis. Nous sommes loin d’une “manne commerciale” et beaucoup plus proche de relations en partie commerciales et en partie partenariales visant à instancier la réciprocité. Le but n’est pas par ailleurs de “l’intégrer… dans cette maison”, mais effectivement de penser une juste distribution de la valeur pour l’ensemble de la communauté dans le cadre d’une gouvernance partagée et ouverte. Cette structure co-portée aura pour vocation a être régie avec le même soucis de qualité d’éthique, d’ouverture et de transparence que ce que nous nous efforçons de mettre en place à la MYNE.
+L’annonce de “_150000€ d’activité_” ne peut donc avoir à ce stade de réalité que prévisionnelle, et ne concerne pas la MYNE en tant que telle mais bien la structure Oxamyne co-portée par la MYNE et Oxalis. Nous sommes loin d’une “manne commerciale” et beaucoup plus proche de relations en partie commerciales et en partie partenariales visant à instancier la réciprocité. Le but n’est pas par ailleurs de “l’intégrer… dans cette maison”, mais effectivement de penser une juste distribution de la valeur pour l’ensemble de la communauté dans le cadre d’une gouvernance partagée et ouverte. Cette structure co-portée aura pour vocation a être régie avec le même soucis de qualité d’éthique, d’ouverture et de transparence que ce que nous nous efforçons de mettre en place à la MYNE.
 
 Enfin, nous ne faisons pas de “_prospection commerciale_”. Le point souligné par Benjamin relève de la réalité des pratiques et ne doit pas être lu comme un potentiel de développement commercial inexploité.
 
@@ -72,13 +72,13 @@ Enfin, nous ne faisons pas de “_prospection commerciale_”. Le point soulign�
 
 Il n’y a à ce jour que peu de visibilité sur l’existence juridique et le fonctionnement de Oxamyne: nous apprenons en marchant et en expérimentant. En effet, le co-construction de cet outil nécessite un travail de fond de médiation et d’appropriation, ainsi que sur la gouvernance ouverte et partagée que nous souhaitons mettre en place. Le timing annoncé ne concerne donc que la partie administrative propre, suivie d’expérimentations multiples et donc sans dates annoncées.
 
-> _“Le modèle, qui sera, comme les autres projets de la Myne, documenté, pourra-t-il ensuite servir à d’autres tiers-lieux ? « On a d’abord besoin d’explorer et de l’essayer avant de dire qu’on peut reproduire et essaimer », tempère-t-il”_
+> _“Le modèle, qui sera, comme les autres projets de la MYNE, documenté, pourra-t-il ensuite servir à d’autres tiers-lieux ? « On a d’abord besoin d’explorer et de l’essayer avant de dire qu’on peut reproduire et essaimer », tempère-t-il”_
 
 L’ensemble est et sera documenté. Il ne s’agit pas de prêcher l’essaimage ou la reproduction d’un modèle, mais de défricher et d’explorer. Cette documentation servira de fait les autres tiers-lieux, sous couvert d’appropriation de tout ou partie pour expérimenter et croiser les retours d’expériences.
 
 > En bref: le vocabulaire et l’approche de [cet article](http://www.makery.info/2017/05/30/a-lyon-la-myne-experimente-lentrepreneuriat-cooperatif/), résolument “économie de marché” n’est, selon nous, pas en phase avec les valeurs et pratiques de la MYNE car bien trop réducteur.
 
-En espérant que ces éléments apportent un éclairage sur l’expérimentation en cours autour d’OxaMYNE.
+En espérant que ces éléments apportent un éclairage sur l’expérimentation en cours autour d’Oxamyne.
 
 > **Note**: les interventions de [Michel Lallement](http://lise-cnrs.cnam.fr/le-laboratoire/les-membres-du-lise/michel-lallement-620946.kjsp) et de [Marie-Christine Bureau](http://lise-cnrs.cnam.fr/le-laboratoire/les-membres-du-lise/marie-christine-bureau-623635.kjsp) retranscrites dans l’article sont pertinentes et l’étoffent de manière efficace.
 
